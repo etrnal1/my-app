@@ -159,7 +159,7 @@ export default function FilesPage() {
                                 <tr>
                                     <th className="text-left p-4 text-gray-700 text-sm font-semibold border-b border-gray-200">文件名</th>
                                     <th className="text-left p-4 text-gray-700 text-sm font-semibold border-b border-gray-200">大小</th>
-                                    <th className="text-left p-4 text-gray-700 text-sm font-semibold border-b border-gray-200">修改日期</th>
+                                    <th className="text-left p-4 text-gray-700 text-sm font-semibold border-b sborder-gray-200">修改日期</th>
                                     <th className="text-right p-4 text-gray-700 text-sm font-semibold border-b border-gray-200">操作</th>
                                     <th className="text-center p-4 text-gray-700 text-sm font-semibold border-b border-gray-200">播放</th>
                                 </tr>

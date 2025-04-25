@@ -27,7 +27,7 @@ export default function Sidebar() {
 
             <div className="py-1 hover:bg-gray-700 rounded">
               
-              <Link href="ceshi">测试管理</Link></div>
+              <Link href="/ceshi">测试管理</Link></div>
           </div>
         )}
       </div>
